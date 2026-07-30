@@ -1,0 +1,31 @@
+Brand,Shade,Depth,DepthScore,Undertone,UndertoneScore
+Huda Beauty,Milkshake,Very Light,1,Cool,0
+Huda Beauty,Yogurt Drops,Very Light,1,Neutral,1
+Huda Beauty,Vanilla Swirl,Light,2,Warm,2
+Huda Beauty,Shortbread,Light,2,Neutral,1
+Huda Beauty,Macaroon,Medium Light,3,Cool,0
+Huda Beauty,Tres Leches,Medium,4,Warm,2
+Huda Beauty,Latte,Medium,4,Neutral,1
+Huda Beauty,Toffee,Medium Dark,5,Warm,2
+Huda Beauty,Cinnamon,Dark,6,Warm,2
+Huda Beauty,Cocoa,Dark,6,Neutral,1
+Fenty Beauty,100,Very Light,1,Cool,0
+Fenty Beauty,120,Very Light,1,Neutral,1
+Fenty Beauty,150,Light,2,Warm,2
+Fenty Beauty,190,Light,2,Cool,0
+Fenty Beauty,210,Medium Light,3,Neutral,1
+Fenty Beauty,240,Medium,4,Neutral,1
+Fenty Beauty,300,Medium,4,Warm,2
+Fenty Beauty,330,Medium Dark,5,Warm,2
+Fenty Beauty,420,Dark,6,Neutral,1
+Fenty Beauty,450,Dark,6,Warm,2
+MAC,NC10,Very Light,1,Warm,2
+MAC,NW10,Very Light,1,Cool,0
+MAC,NC20,Light,2,Warm,2
+MAC,NW20,Light,2,Cool,0
+MAC,NC30,Medium Light,3,Warm,2
+MAC,NW25,Medium Light,3,Cool,0
+MAC,NC35,Medium,4,Warm,2
+MAC,NW35,Medium,4,Cool,0
+MAC,NC45,Medium Dark,5,Warm,2
+MAC,NW50,Dark,6,Cool,0
