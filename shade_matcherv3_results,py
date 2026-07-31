@@ -1,0 +1,15 @@
+C:\Users\tahelegonus\83 N-CPT Analyst\AppData\Roaming\Python\Python312\site-packages\sklearn\tree\_classes.py:289: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y` could represent a regression problem, not a classification problem.
+  check_classification_targets(y)
+Model Accuracy: 0.00
+Example Prediction: 300
+
+Available Brands
+- Huda Beauty
+- Fenty Beauty
+- MAC
+
+Brand: MAC
+Depth: Medium
+Undertone: Warm
+
+Recommended Shade: NC35
