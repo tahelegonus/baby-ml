@@ -1,0 +1,23 @@
+Brand,Shade,Depth,DepthScore,Undertone,UndertoneScore,HexColor
+Huda Beauty,Cinnamon,Dark,6,Warm,2,#8B563F
+Huda Beauty,Cocoa,Dark,6,Neutral,1,#754638
+Fenty Beauty,100,Very Light,1,Cool,0,#F1D6C8
+Fenty Beauty,120,Very Light,1,Neutral,1,#EBC8B7
+Fenty Beauty,150,Light,2,Warm,2,#D9A88F
+Fenty Beauty,190,Light,2,Cool,0,#D5A08E
+Fenty Beauty,210,Medium Light,3,Neutral,1,#C99178
+Fenty Beauty,240,Medium,4,Neutral,1,#BD856C
+Fenty Beauty,300,Medium,4,Warm,2,#A96F56
+Fenty Beauty,330,Medium Dark,5,Warm,2,#965D46
+Fenty Beauty,420,Dark,6,Neutral,1,#704334
+Fenty Beauty,450,Dark,6,Warm,2,#61382D
+MAC,NC10,Very Light,1,Warm,2,#F0D3BE
+MAC,NW10,Very Light,1,Cool,0,#EACBC5
+MAC,NC20,Light,2,Warm,2,#E2B99E
+MAC,NW20,Light,2,Cool,0,#DDB5AA
+MAC,NC30,Medium Light,3,Warm,2,#C99A7C
+MAC,NW25,Medium Light,3,Cool,0,#C99B91
+MAC,NC35,Medium,4,Warm,2,#BD896C
+MAC,NW35,Medium,4,Cool,0,#B9867D
+MAC,NC45,Medium Dark,5,Warm,2,#9C684F
+MAC,NW50,Dark,6,Cool,0,#6F4038
